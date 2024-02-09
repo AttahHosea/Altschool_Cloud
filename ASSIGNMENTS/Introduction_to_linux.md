@@ -40,13 +40,13 @@ Deadline: 10th Feb 2024
 <table>
   <tr>
     <td>
-      [fullscreen 1](fs1.png)
+      ![fullscreen 1](fs1.png)
     </td>
     <td>
-      [fullscreen 2](fs2.png)
+      ![fullscreen 2](fs2.png)
     </td>
     <td>
-      [fullscreen 3](fs3.png)
+      ![fullscreen 3](fs3.png)
     </td>
   </tr>
 <table>
