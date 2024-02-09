@@ -46,16 +46,16 @@ Deadline: 10th Feb 2024
       ![fullscreen 2](fs2.png)
     </td>
     <td>
-      ![fullscreen 3](fs3.png)
+      ![fullscreen 3](images/fs3.png)
     </td>
   </tr>
 <table>
 
 1. 'Change directory to the tests directory using absolute pathname'
-    ![first question](one.png)
+    ![first question](images/one.png)
 
 2. 'Change directory to the tests directory using relative pathname'
-    ![second question](two.png)
+    ![second question](images/two.png)
 
 3. 'Use echo command to create a file named fileA with text content Hello A in the misc directory'
-    ![third question](three.png)
+    ![third question](images/three.png)
