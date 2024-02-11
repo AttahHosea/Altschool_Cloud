@@ -37,22 +37,11 @@ Deadline: 10th Feb 2024
 
 ## SOLUTION
 
-<table>
-  <tr>
-    <td>
-      ![fullscreen 1](fs1.png)
-    </td>
-    <td>
-      ![fullscreen 2](fs2.png)
-    </td>
-    <td>
-      ![fullscreen 3](images/fs3.png)
-    </td>
-  </tr>
-<table>
+![A cute cat](images/fs1.png)
 
 1. `Change directory to the tests directory using absolute pathname`
-    ![first question](images/juy.jpeg)
+    ![mkdir](images/one.png)
+
 
 2. `Change directory to the tests directory using relative pathname`
     
