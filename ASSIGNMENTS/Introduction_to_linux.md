@@ -51,11 +51,11 @@ Deadline: 10th Feb 2024
   </tr>
 <table>
 
-1. 'Change directory to the tests directory using absolute pathname'
-    ![first question](images/one.png)
+1. `Change directory to the tests directory using absolute pathname`
+    ![first question](images/juy.jpeg)
 
-2. 'Change directory to the tests directory using relative pathname'
-    ![second question](images/two.png)
+2. `Change directory to the tests directory using relative pathname`
+    
 
-3. 'Use echo command to create a file named fileA with text content Hello A in the misc directory'
-    ![third question](images/three.png)
+3. `Use echo command to create a file named fileA with text content Hello A in the misc directory`
+    
