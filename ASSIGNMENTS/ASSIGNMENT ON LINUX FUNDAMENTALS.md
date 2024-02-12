@@ -37,19 +37,8 @@ Deadline: 10th Feb 2024
 
 ## SOLUTION
 
-<table>
-  <tr>
-    <td>
-      ![fullscreen 1](images/fs1.png)
-    </td>
-    <td>
-      ![fullscreen 2](images/fs2.png)
-    </td>
-    <td>
-      ![fullscreen 3](images/fs3.png)
-    </td>
-  </tr>
-<table>
+![fullscreen1](images/fs1.png) ![fullscreen1](images/fs2.png) ![fullscreen1](images/fs3.png)
+
 
 1. `Change directory to the tests directory using absolute pathname`
     ![absolute path](images/one.png)
