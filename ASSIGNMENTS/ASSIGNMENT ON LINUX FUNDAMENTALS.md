@@ -38,6 +38,7 @@ Deadline: 10th Feb 2024
 ## SOLUTION
 
 1. `Change directory to the tests directory using absolute pathname`  
+    
     "cd /home/altschool/tests"
     ![absolute path](images/one.png)
 
