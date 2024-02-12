@@ -40,10 +40,10 @@ Deadline: 10th Feb 2024
 <table>
   <tr>
     <td>
-      ![fullscreen 1](fs1.png)
+      ![fullscreen 1](images/fs1.png)
     </td>
     <td>
-      ![fullscreen 2](fs2.png)
+      ![fullscreen 2](images/fs2.png)
     </td>
     <td>
       ![fullscreen 3](images/fs3.png)
@@ -51,11 +51,41 @@ Deadline: 10th Feb 2024
   </tr>
 <table>
 
-1. 'Change directory to the tests directory using absolute pathname'
-    ![first question](images/one.png)
+1. `Change directory to the tests directory using absolute pathname`
+    ![absolute path](images/one.png)
 
-2. 'Change directory to the tests directory using relative pathname'
-    ![second question](images/two.png)
+2. `Change directory to the tests directory using relative pathname`
+    ![relative path](images/two.png)
 
-3. 'Use echo command to create a file named fileA with text content Hello A in the misc directory'
-    ![third question](images/three.png)
+3. `Use echo command to create a file named fileA with text content Hello A in the misc directory`
+    ![create fileA](images/three.png)
+
+4. `Create an empty file named fileB in the misc directory. Populate the file with a dummy content afterwards`
+    ![create empty file](images/four.png)
+
+5. `Copy contents of fileA into fileC`
+    ![cut fileA](images/five.png)
+
+6. `Move contents of fileB into fileD`
+    ![move fileB](images/six.png)
+
+7. `Create a tar archive called misc.tar for the contents of misc directory`
+    ![create .tar archive](images/seven.png)
+
+8. `Compress the tar archive to create a misc.tar.gz file`
+    ![compress misc.tar to gz](images/eight.png)
+
+9. `Create a user and force the user to change his/her password upon login`
+    ![new user with no passwd](images/nine.png)
+
+10. `Lock a users password`
+    ![lock user passwd](images/ten.png)
+
+11. `Create a user with no login shell`
+    ![no login shell](images/eleven.png)
+
+12. `Disable password based authentication for ssh`
+    ![disable passwd](images/twelve_thirteen.png)
+
+13. `Disable root login for ssh`
+    ![disable root login for ssh](images/twelve_thirteen.png)
