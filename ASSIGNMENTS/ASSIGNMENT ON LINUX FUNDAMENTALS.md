@@ -37,9 +37,6 @@ Deadline: 10th Feb 2024
 
 ## SOLUTION
 
-![fullscreen1](images/fs1.png) ![fullscreen1](images/fs2.png) ![fullscreen1](images/fs3.png)
-
-
 1. `Change directory to the tests directory using absolute pathname`
     ![absolute path](images/one.png)
 
@@ -78,3 +75,10 @@ Deadline: 10th Feb 2024
 
 13. `Disable root login for ssh`
     ![disable root login for ssh](images/twelve_thirteen.png)
+
+## FULLSCREEN
+![fullscreen1](images/fs1.png) ![fullscreen1](images/fs2.png) ![fullscreen1](images/fs3.png)
+
+## ERROR
+While testing a few commands i ran into an error that made my virtual machine unresponsive.
+![fullscreen error](images/error.png)
