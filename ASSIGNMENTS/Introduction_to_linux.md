@@ -40,11 +40,10 @@ Deadline: 10th Feb 2024
 ![A cute cat](images/fs1.png)
 
 1. `Change directory to the tests directory using absolute pathname`
-    ![mkdir](images/one.png)
-
+    ![absolute path](images/one.png)
 
 2. `Change directory to the tests directory using relative pathname`
-    
+    ![relative path](images/two.png)
 
 3. `Use echo command to create a file named fileA with text content Hello A in the misc directory`
     
