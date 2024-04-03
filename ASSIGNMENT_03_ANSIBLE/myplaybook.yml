@@ -61,7 +61,7 @@
     - name: copy git repo
       tags: apache2,ubuntu,apache
       synchronize:
-        src: /home/vagrant/Ansible2/Web-repo/Alt-School-Assignment-3/
+        src: /home/vagrant/Ansible2/Web-repo/Altschool_Assignment_WP/
         dest: /var/www/html/
         recursive: yes
 
